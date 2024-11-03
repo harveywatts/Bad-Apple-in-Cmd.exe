@@ -109,11 +109,117 @@ Ta program je zelo preprost program, ki je bil ustvarjen le z enim paketnim dato
 ### Tamil
 இந்த மென்பொருள் ஒரு எளிமையான மென்பொருள் ஆகும், இது ஒரே பேட்ச் கோப்பைப் பயன்படுத்தி உருவாக்கப்பட்டுள்ளது, இது டெர்மினலில் அல்லது Windows cmd இல் இயக்கப்படலாம், மற்றொரு மொழி தேவையில்லை. இப்போது, நான் தாமதச் சிக்கல்களால் கோப்பைப் பதிவேற்றுவதில்லை.
 
-### Thai
-โปรแกรมนี้เป็นโปรแกรมที่ง่ายมากที่สร้างขึ้นด้วยไฟล์แบทช์เพียงไฟล์เดียวซึ่งสามารถรันในเทอร์มินัลหรือ Windows cmd โดยไม่ต้องใช้ภาษาอื่น ขณะนี้ฉันไม่ได้อัปโหลดไฟล์เนื่องจากปัญหาความล่าช้า
 
 ### Urdu
 یہ پروگرام ایک بہت سادہ پروگرام ہے جو صرف ایک بیچ فائل کے ساتھ بنایا گیا ہے جسے ٹرمینل یا Windows cmd میں چلایا جا سکتا ہے، بغیر کسی دوسری زبان کے۔ فی الحال، میں تاخیر کے مسائل کی وجہ سے فائل اپ لوڈ نہیں کر رہا ہوں.
 
 ### Vietnamese
 Chương trình này là một chương trình rất đơn giản được tạo ra chỉ với một tệp batch có thể được chạy trong terminal hoặc Windows cmd, mà không cần ngôn ngữ nào khác. Hiện tại, tôi không tải lên tệp do các vấn đề về độ trễ.
+
+### Albanian
+Ky program është një program shumë i thjeshtë i krijuar vetëm me një skedar batch që mund të ekzekutohet në terminal ose Windows cmd, pa asnjë gjuhë tjetër. Aktualisht nuk po ngarkoj skedarin për shkak të problemeve me vonesat.
+
+### Amharic
+ይህ እትም በሁሉም ነገር ዝቅተኛ የሚሆን ፕሮግራም ነው የሚለው ባች ፋይል በተጠቃሚ መነሻ ወይም Windows cmd ላይ ማንኛውም ቋንቋ የለውም። እቅፍ የማን ያይዙ አይነት ነው።
+
+### Armenian
+Այս ծրագիրը շատ պարզ ծրագիր է, որը ստեղծված է միայն մեկ հավաքածուի ֆայլով, որը կարելի է գործարկել տերմինալում կամ Windows cmd-ում, առանց որևէ այլ լեզվի: Այս պահին չեմ բեռնում ֆայլը ուշացման խնդիրների պատճառով:
+
+### Basque
+Programa hau oso sinplea da, batch fitxategi batekin egina, terminalean edo Windows cmd-n exekutatu daitekeena, beste inolako hizkuntzarik gabe. Oraingoz, ez dut fitxategia igotzen atzerapen arazoengatik.
+
+### Belarusian
+Гэтая праграма — вельмі простая праграма, якая створана толькі з дапамогай пакетнага файла, які можна запусціць у тэрмінале або Windows cmd, без выкарыстання іншых моў. У цяперашні час я не загружаю файл з-за праблем з затрымкай.
+
+### Breton
+Ar programma-mañ zo ur programm sehr eürus graet gant ur roll batch a c'haller mirout e-terminal pe e Windows cmd, hep ur yezh all. Hiziv n'on ket o t'ober d'ober an roll da gentañ dre ar goulennoù.
+
+### Chichewa
+Pulogalamu iyi ndi pulogalamu yofulumira kwambiri yomwe imapangidwa ndi fayilo ya batch yokha yomwe ingachitike mu terminal kapena Windows cmd, popanda chinachitacho. Pakali pano, sindikukweza fayilo chifukwa cha mavuto a kuchepa.
+
+### Chinese (Traditional)
+這個程式是一個非常簡單的程式，僅使用一個批次檔案製作，可以在終端或Windows cmd中運行，無需其他語言。目前，由於延遲問題，我沒有上傳該檔案。
+
+### Corsican
+Stu prugramma hè un prugramma molto semplici fattu solu cù un schedariu batch chì pò esse eseguitu in u terminale o in Windows cmd, senza alcuna altra lingua. Attualmente, ùn stò caricatu u schedariu per via di prublemi di ritardu.
+
+### Czech
+Tento program je velmi jednoduchý program, který byl vytvořen pouze s jedním dávkovým souborem, který lze spustit v terminálu nebo ve Windows cmd, bez potřeby jiného jazyka. V současné době soubor nezveřejňuji kvůli problémům se zpožděním.
+
+### Danish
+Dette program er et meget simpelt program, der kun er lavet med en batchfil, der kan køres i terminalen eller Windows cmd, uden at der er behov for noget andet sprog. Jeg uploader i øjeblikket ikke filen på grund af forsinkelsesproblemer.
+
+### Georgian
+ეს პროგრამა ძალიან მარტივი პროგრამაა, რომელიც მხოლოდ ერთი ბათჩის ფაილით არის შექმნილი, რომელსაც შესაძლებელია გაშვება ტერმინალში ან Windows cmd-ში, სხვა ენის გარეშე. ამჟამად ვერ ვხსნი ფაილს დაგვიანების პრობლემების გამო.
+
+### Hausa
+Wannan shirin shine shirin mai sauki wanda aka yi tare da fayil ɗin batch kawai wanda za'a iya gudanar da shi a cikin terminal ko Windows cmd, ba tare da wata harshe ba. A halin yanzu, ba na ɗora fayil ɗin saboda matsalolin jinkirin.
+
+### Hawaiian
+ʻO kēia papahana he papahana maʻalahi loa i hana ʻia me hoʻokomo i hoʻokomo i loko o ke kūlana a me Windows cmd, me nā ʻōlelo ʻē aʻe ʻole. I kēia manawa, ʻaʻole hiki iaʻu ke hoʻokuʻu i ka faila no nā pilikia o ka hoʻokuʻu.
+
+### Icelandic
+Þetta forrit er mjög einfalt forrit sem gert er aðeins með batch skrá sem hægt er að keyra í terminal eða Windows cmd, án þess að þurfa aðra tungumál. Núna er ég ekki að hlaða skráinni upp vegna töfuvandamála.
+
+### Irish
+Is clár an-simplí a bhfuil déanta aige le comhad batch amháin a d’fhéadfaí a rith i dtéarma nó i Windows cmd, gan aon teanga eile. Faoi láthair, nílim ag uaslódáil an chomhoibrithe de bharr fadhbanna moille.
+
+### Japanese (Hiragana)
+このプログラムは、他の言語なしでターミナルまたはWindows cmdで実行できるバッチファイルだけで作られた非常にシンプルなプログラムです。現在、遅延の問題のためファイルをアップロードしていません。
+
+### Kurdish
+Ev bernameya pir hêsan e ku tenê bi fîlê batch tê çêkirin ku dikare li terminal an Windows cmd ve were pêk anîn, bê zimanek din. Niha, ez fîlê ne radest dikim ji ber pirsgirêkên dirêj.
+
+### Lao
+ລາຍງານນີ້ແມ່ນແອັບອັນງ່າຍ ທີ່ສ້າງດ້ວຍແບບຟາຍສຽງແບບກົດຂອງຂໍ້ມູນທີ່ສາມາດຖືກປ່ອນໃນຄອມສະເລັດສຽງ ຫຼື Windows cmd, ບໍ່ມີສາມາດຕໍ່ເທັດ. ປະຈຸບັນ, ຂໍ້ມູນທີ່ຂໍ່ຄົ້ນໄປຫາອະນຄົມມື່ອງລົບຕັວ.
+
+### Luxembourgish
+Dëse Programm ass e ganz einfache Programm, dat just mat enger Batchdatei erstallt gouf, déi am Terminal oder am Windows cmd ausgefouert ka ginn, ouni eng aner Sprooch. Am Moment lueden ech d'Datei net op wéinst Verspéidungsproblemer.
+
+### Macedonian
+Оваа програма е многу едноставна програма создадена само со еден фајл за партија, кој може да се изврши во терминалот или Windows cmd, без потреба од друг јазик. Во моментов не ја качувам датотеката поради проблеми со одложување.
+
+### Maltese
+Dan il-programm huwa programm sempliċi ħafna li huwa magħmul biss b’fajl batch li jista’ jiġi eżegwit fit-terminal jew Windows cmd, mingħajr lingwa oħra. Fil-ħin attwali, ma npoġġix il-fajl minħabba problemi ta’ dewmien.
+
+### Nepali
+यो कार्यक्रम एकदम साधारण कार्यक्रम हो जुन केवल एक बैच फाइलको साथमा बनाइएको हो जसलाई टर्मिनलमा वा Windows cmd मा चलाउन सकिन्छ, कुनै अन्य भाषाको आवश्यकता बिना। हाल म ढिलाइको समस्याका कारण फाइल अपलोड गरिरहेको छैन।
+
+### Norwegian
+Dette programmet er et veldig enkelt program laget kun med en batch-fil som kan kjøres i terminalen eller Windows cmd, uten behov for et annet språk. For øyeblikket laster jeg ikke opp filen på grunn av forsinkelsesproblemer.
+
+### Pashto
+دا برنامه یوه ډېره ساده برنامه ده چې یوازې د یوه بیچ فایل سره جوړه شوې ده چې په ترمینل یا Windows cmd کې اجرا کیدی شي، پرته له دې چې بلې ژبې ته اړتیا وي. په اوس وخت کې، زه د ځنډ مشکلاتو له امله فایل نه پورته کوم.
+
+### Romanian
+Acest program este un program foarte simplu creat doar cu un fișier batch care poate fi rulat în terminal sau Windows cmd, fără a necesita o altă limbă. În prezent, nu încarc fișierul din cauza problemelor de întârziere.
+
+### Serbian (Cyrillic)
+Овај програм је веома једноставан програм који је направљен само са једним batch датотеком, који се може покренути у терминалу или Windows cmd, без потребе за другим језиком. Тренутно не учитавам датотеку због проблема са кашњењем.
+
+### Somali
+Barnaamijkan waa barnaamij aad u fudud oo lagu sameeyay hal fayl batch ah oo lagu fulin karo terminal ama Windows cmd, iyada oo aan loo baahnayn luuqad kale. Hada, ma soo gudbinayo faylka sababo la xiriira dhibaatooyinka dib u dhaca.
+
+### Swahili
+Programu hii ni programu rahisi sana iliyoundwa kwa kutumia faili la batch tu ambalo linaweza kuendesha kwenye terminal au Windows cmd, bila lugha nyingine yoyote. Kwa sasa, siwezi kupakia faili hiyo kwa sababu ya matatizo ya ucheleweshaji.
+
+### Telugu
+ఈ ప్రోగ్రామ్ ఒక బ్యాచ్ ఫైల్‌తో తయారైన చాలా సాధారణమైన ప్రోగ్రామ్, ఇది టెర్మినల్‌లో లేదా Windows cmdలో నడుపవచ్చు, ఇతర ఏ భాషను అవసరం లేకుండా. ప్రస్తుతానికి, నేను ఆలస్య సమస్యల కారణంగా ఫైల్‌ను అప్‌లోడ్ చేయట్లేదు.
+
+### Thai
+โปรแกรมนี้เป็นโปรแกรมที่ง่ายมากที่สร้างขึ้นด้วยไฟล์แบทช์เพียงไฟล์เดียวซึ่งสามารถรันในเทอร์มินัลหรือ Windows cmd โดยไม่ต้องใช้ภาษาอื่น ขณะนี้ฉันไม่ได้อัปโหลดไฟล์เนื่องจากปัญหาความล่าช้า
+
+### Uzbek
+Ushbu dastur, terminal yoki Windows cmd-da ishlatish uchun bitta batch fayli yordamida yaratilgan juda oddiy dasturdir, boshqa hech qanday tilni talab qilmaydi. Hozirda men kechikish muammolari tufayli faylni yuklamayapman.
+
+### Welsh
+Mae'r rhaglen hon yn rhaglen syml iawn a grëwyd gyda ffeil batch yn unig y gellir ei rhedeg yn y terminal neu yn Windows cmd, heb unrhyw iaith arall. Ar hyn o bryd, nid wyf yn llwytho'r ffeil i fyny oherwydd problemau oedi.
+
+### Xhosa
+Lo msebenzi ngu msebenzi olula kakhulu owenziwe ngembalela efayilini ye-batch, enokuphumelela kwi-terminal okanye kwi-Windows cmd, ngaphandle kokuba nezinye iilwimi. Ngoku, andikukhupheli ifayile ngenxa yeengxaki zokuphazamiseka.
+
+### Yoruba
+Eyi jẹ eto ti o rọrun pupọ ti a ṣe pẹlu faili batch kan nikan ti a le ṣiṣe ni terminal tabi Windows cmd, laisi ede miiran. Ni bayi, Emi ko n gbe faili naa soke nitori awọn iṣoro idaduro.
+
+### Zulu
+Lolu hlelo luwuhlelo olulula kakhulu olwakhiwe ngefayela le-batch elilodwa elingasetshenziswa ku-terminal noma kwi-Windows cmd, ngaphandle kolimi olunye. Okwamanje, angikhiphi ifayela ngenxa yezinkinga zokulibazisa.
