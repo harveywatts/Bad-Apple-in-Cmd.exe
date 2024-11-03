@@ -32,6 +32,28 @@ Este programa é um programa muito simples feito apenas com um arquivo em lote q
 
 ### Türkçe
 Bu program, yalnızca bir toplu iş dosyasıyla yapılmış, terminalde veya Windows cmd'de çalıştırılabilen çok basit bir programdır; başka bir dile gerek yoktur. Şu anda gecikme sorunları nedeniyle dosyayı yüklemiyorum.
+### עברית
+תוכנית זו היא תוכנית מאוד פשוטה שנעשית רק עם קובץ אצווה שניתן להריץ בטרמינל או ב-Windows cmd, ללא שפה אחרת. כרגע, אני לא מעלה את הקובץ בגלל בעיות עיכוב.
 
+### Ελληνικά
+Αυτό το πρόγραμμα είναι ένα πολύ απλό πρόγραμμα που έχει δημιουργηθεί μόνο με ένα αρχείο batch που μπορεί να εκτελεστεί στην κονσόλα ή στο Windows cmd, χωρίς καμία άλλη γλώσσα. Αυτή τη στιγμή, δεν ανεβάζω το αρχείο λόγω προβλημάτων καθυστέρησης.
+
+### Svenska
+Detta program är ett mycket enkelt program som är gjort med bara en batchfil som kan köras i terminalen eller Windows cmd, utan något annat språk. För närvarande laddar jag inte upp filen på grund av förseningar.
+
+### Hrvatski
+Ovaj program je vrlo jednostavan program napravljen samo s jednim batch datotekom koja se može pokrenuti u terminalu ili Windows cmd, bez ikakvog drugog jezika. Trenutno ne učitavam datoteku zbog problema s kašnjenjem.
+
+### Magyar
+Ez a program egy nagyon egyszerű program, amelyet csak egy batch fájl segítségével készítettek, amely a terminálban vagy a Windows cmd-ben futtatható, anélkül, hogy bármilyen más nyelvre lenne szükség. Jelenleg nem töltöm fel a fájlt késedelmi problémák miatt.
+
+### Malay
+Program ini adalah program yang sangat sederhana yang dibuat hanya dengan satu fail batch yang boleh dijalankan di terminal atau Windows cmd, tanpa bahasa lain. Pada masa ini, saya tidak memuat naik fail disebabkan oleh masalah kelewatan.
+
+### Filipino
+Ang program na ito ay isang napakasimpleng programa na ginawa gamit lamang ang isang batch file na maaaring patakbuhin sa terminal o sa Windows cmd, nang walang ibang wika. Sa kasalukuyan, hindi ko ina-upload ang file dahil sa mga isyu sa pagkaantala.
+
+### Українська
+Ця програма — дуже проста програма, створена лише за допомогою пакетного файлу, який можна запустити в терміналі або Windows cmd без використання інших мов. Наразі я не завантажую файл через проблеми із затримкою.
 ### العربية
 هذه البرنامج هو برنامج بسيط جدًا تم إنشاؤه باستخدام ملف دفعي واحد فقط يمكن تشغيله في الطرفية أو في Windows cmd، دون أي لغة أخرى. حاليًا، لا أقوم بتحميل الملف بسبب مشاكل التأخير.
