@@ -1,7 +1,7 @@
 # Bad apple in batchfile!
-This program is a very simple program made with just a batch file that can be run in the terminal or Windows cmd, without any other language. Currently, I am not uploading the file due to delay issues.
 
-## Translations
+###English
+This program is a very simple program made with just a batch file that can be run in the terminal or Windows cmd, without any other language. Currently, I am not uploading the file due to delay issues.
 
 ### Español
 Este programa es un programa muy simple hecho solo con un archivo por lotes que se puede ejecutar en la terminal o en Windows cmd, sin ningún otro lenguaje. Actualmente, no estoy subiendo el archivo debido a problemas de retraso.
