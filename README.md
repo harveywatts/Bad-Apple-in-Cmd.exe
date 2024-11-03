@@ -32,10 +32,6 @@ Este programa é um programa muito simples feito apenas com um arquivo em lote q
 
 ### Türkçe
 Bu program, yalnızca bir toplu iş dosyasıyla yapılmış, terminalde veya Windows cmd'de çalıştırılabilen çok basit bir programdır; başka bir dile gerek yoktur. Şu anda gecikme sorunları nedeniyle dosyayı yüklemiyorum.
-### עברית
-תוכנית זו היא תוכנית מאוד פשוטה שנעשית רק עם קובץ אצווה שניתן להריץ בטרמינל או ב-Windows cmd, ללא שפה אחרת. כרגע, אני לא מעלה את הקובץ בגלל בעיות עיכוב.
-
-### Ελληνικά
 Αυτό το πρόγραμμα είναι ένα πολύ απλό πρόγραμμα που έχει δημιουργηθεί μόνο με ένα αρχείο batch που μπορεί να εκτελεστεί στην κονσόλα ή στο Windows cmd, χωρίς καμία άλλη γλώσσα. Αυτή τη στιγμή, δεν ανεβάζω το αρχείο λόγω προβλημάτων καθυστέρησης.
 
 ### Svenska
@@ -55,5 +51,3 @@ Ang program na ito ay isang napakasimpleng programa na ginawa gamit lamang ang i
 
 ### Українська
 Ця програма — дуже проста програма, створена лише за допомогою пакетного файлу, який можна запустити в терміналі або Windows cmd без використання інших мов. Наразі я не завантажую файл через проблеми із затримкою.
-### العربية
-هذه البرنامج هو برنامج بسيط جدًا تم إنشاؤه باستخدام ملف دفعي واحد فقط يمكن تشغيله في الطرفية أو في Windows cmd، دون أي لغة أخرى. حاليًا، لا أقوم بتحميل الملف بسبب مشاكل التأخير.
