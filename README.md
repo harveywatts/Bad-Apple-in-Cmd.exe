@@ -52,8 +52,6 @@ Ang program na ito ay isang napakasimpleng programa na ginawa gamit lamang ang i
 ### Українська
 Ця програма — дуже проста програма, створена лише за допомогою пакетного файлу, який можна запустити в терміналі або Windows cmd без використання інших мов. Наразі я не завантажую файл через проблеми із затримкою.
 
-## Translations
-
 ### Afrikaans
 Hierdie program is 'n baie eenvoudige program wat slegs met 'n batchlêer gemaak is en in die terminal of Windows cmd uitgevoer kan word, sonder enige ander taal. Tans laai ek nie die lêer op nie weens vertragingsprobleme.
 
