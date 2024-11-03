@@ -20,3 +20,18 @@ Dieses Programm ist ein sehr einfaches Programm, das nur mit einer Batch-Datei e
 
 ### 简体中文
 这个程序是一个非常简单的程序，仅通过一个批处理文件制作，可以在终端或Windows cmd中运行，而不需要任何其他语言。目前，由于延迟问题，我没有上传文件。
+
+### Русский
+Эта программа — очень простая программа, созданная только с помощью пакетного файла, который можно запустить в терминале или Windows cmd без использования других языков. В настоящее время я не загружаю файл из-за проблем с задержкой.
+
+### Italiano
+Questo programma è un programma molto semplice realizzato solo con un file batch che può essere eseguito nel terminale o in Windows cmd, senza alcun altro linguaggio. Attualmente non sto caricando il file a causa di problemi di ritardo.
+
+### Português
+Este programa é um programa muito simples feito apenas com um arquivo em lote que pode ser executado no terminal ou no Windows cmd, sem nenhum outro idioma. No momento, não estou fazendo o upload do arquivo devido a problemas de atraso.
+
+### Türkçe
+Bu program, yalnızca bir toplu iş dosyasıyla yapılmış, terminalde veya Windows cmd'de çalıştırılabilen çok basit bir programdır; başka bir dile gerek yoktur. Şu anda gecikme sorunları nedeniyle dosyayı yüklemiyorum.
+
+### العربية
+هذه البرنامج هو برنامج بسيط جدًا تم إنشاؤه باستخدام ملف دفعي واحد فقط يمكن تشغيله في الطرفية أو في Windows cmd، دون أي لغة أخرى. حاليًا، لا أقوم بتحميل الملف بسبب مشاكل التأخير.
